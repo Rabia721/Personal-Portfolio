@@ -479,7 +479,8 @@ section .container {
 # Skills
 --------------------------------------------------------------*/
 
-.skills .progress {
+.skills .progress 
+{
     height: 50px;
     display: block;
     background: none;
